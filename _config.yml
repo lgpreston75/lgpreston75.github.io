@@ -30,7 +30,7 @@ twitter_username: lgpreston75
 github_username:  lgpreston75
 
 # Build settings
-remote_theme: thelehhman/texture
+theme: minima
 plugins:
   - jekyll-feed
 
