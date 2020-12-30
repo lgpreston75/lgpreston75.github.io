@@ -13,7 +13,7 @@ This post will demonstrate how to run a simple "Hello World" streamlit app from 
 
 ---
 
-I've made the repo available at :
+I've made the repo available at: [link](https://github.com/lgpreston75/streamlit-docker)
 
 Clone the repo and examine the folder structure:
 > Suggested folder structure. The ```main.py``` file is our app. 
