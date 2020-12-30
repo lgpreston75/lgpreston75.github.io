@@ -12,4 +12,4 @@ I'm generally a Python user and as such most of my posts will probably include a
 
 In my free time I love cycling, so I can find a way to incorporate any references to two wheels I will! 
 
-I hope you find something interesting, please feel free to get in touch: [email](llion.preston@gmail.com)
+I hope you find something interesting, please feel free to get in touch: <llion.preston@gmail.com>
